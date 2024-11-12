@@ -224,11 +224,11 @@ $consus_gradients = array(
 		),
 
 );
-$consus_theme_action_button           = __( 'Get started today', 'consus' );
-$consus_theme_action_button_secondary = __( 'Read more', 'consus' );
+$consus_theme_action_button           = 'Get started today';
+$consus_theme_action_button_secondary = 'Read more';
 
-$consus_theme_click_pen_to_edit_title = __( 'The place where ideas can come to life', 'consus' );
-$consus_lorem_ipsum                   = __( 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sit amet tellus eu arcu commodo dignissim. Phasellus vel facilisis mi habitant tristique senectus et netus et fames ac turpis egestas.', 'consus' );
+$consus_theme_click_pen_to_edit_title = 'The place where ideas can come to life';
+$consus_lorem_ipsum                   = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sit amet tellus eu arcu commodo dignissim. Phasellus vel facilisis mi habitant tristique senectus et netus et fames ac turpis egestas.';
 
 
 return array(
